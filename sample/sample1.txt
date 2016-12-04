@@ -1,0 +1,4 @@
+BenchmarkSample1Double1-4   	1000000000	         2.29 ns/op
+BenchmarkSample1Double2-4   	1000000000	         2.26 ns/op
+PASS
+ok  	github.com/nirasan/bbcmp/sample	5.016s
