@@ -1,6 +1,13 @@
 {
 	"comment": "",
 	"ignore": "test",
-	"package": [],
+	"package": [
+		{
+			"checksumSHA1": "AftExNscXrMga62mDR8kRWdhVTE=",
+			"path": "golang.org/x/tools/benchmark/parse",
+			"revision": "366e27042d04e36bdf2d0033252e4e29f958f175",
+			"revisionTime": "2016-12-02T15:55:52Z"
+		}
+	],
 	"rootPath": "github.com/nirasan/bbcmp"
 }
